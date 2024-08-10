@@ -1,0 +1,144 @@
+body {
+    background-image:url(../images/bg-main.jpg);
+}
+
+a {
+    margin-top: 30px;
+    color: darkblue;
+}
+
+.myHeader {             /* Main Top of Page Header */
+    font-size: 6rem;
+    font-weight: 500;
+    text-shadow:
+        -2px -1px 0 rgb(35, 0, 0),
+        1px -1px 0 rgb(35, 0, 0),
+        -2px 1px 0 rgb(35, 0, 0),
+        1px 1px 0 rgb(35, 0, 0);
+}
+
+.smallHeader {
+    color: white;
+    font-size: 3rem;
+    font-weight: 500;
+    text-shadow:
+        -2px -1px 0 rgb(35, 0, 0),
+        1px -1px 0 rgb(35, 0, 0),
+        -1px 1px 0 rgb(35, 0, 0),
+        1px 1px 0 rgb(35, 0, 0);
+}
+
+.whiteText {
+    color:#f8f3da;
+}
+
+.whiteText:hover {
+    color: #f8d4a5;
+}
+
+.altWhite {
+    color: #f8d4a5;
+}
+
+.altWhite:hover {
+    color:#f8f3da;
+}
+
+.blackText {
+    color: #222222;
+}
+
+.underlineText {
+    text-decoration: underline;
+}
+
+.alignLeft {
+    text-align: left;
+}
+
+.fontArial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.italicize {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.fontLarger {
+    font-size: 18px;
+}
+
+#mainNav {
+    background-color: rgba(231, 120, 16, 0.836);
+}
+
+.navActivePage {
+    color: #f0bf80;
+}
+
+.introHeader {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.buttonText1 {
+    font-size: 1.3rem;
+}
+
+.buttonText2 {
+    font-size: 1rem;
+}
+
+.videoHeadingUpper {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.videoHeadingLower {
+    font-size: 2rem;
+}
+
+.resumeBorder {
+    padding: 45px;
+    border: dashed 1px #afafaf;
+    border-radius: 12px;
+}
+
+.imageBorder {
+    border-radius: 21px;
+}
+
+.slightlyRounded {
+    border-radius: 16px;
+    border: solid 1px #222222;
+}
+
+.pageBreak {
+    margin-left: 150px;
+    margin-right: 150px;
+    border-top: dashed #222222 1px;
+    text-align: center;
+    padding-right: 50px;
+}
+
+.alignCenter {
+    text-align: center;
+    padding-right: 5px;
+}
+
+.topLink {
+    color: darkblue;
+    text-align: left;
+    padding-top: 3px;
+    margin-left: 30px;
+
+}
+
+.footer {
+    background-color: rgba(231, 120, 16, 0.836);
+}
+
